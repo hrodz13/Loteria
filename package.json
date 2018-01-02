@@ -1,0 +1,33 @@
+{
+  "name": "loteria",
+  "version": "1.0.0",
+  "description": "A mexican game of chance. ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrodz13/Loteria.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Heriberto Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrodz13/Loteria/issues"
+  },
+  "homepage": "https://github.com/hrodz13/Loteria#readme"
+}
